@@ -1,0 +1,10 @@
+<Configuration>
+	<Display Level="None" AcceptEULA="TRUE" />
+	<Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+	<Remove>
+		<Product ID="ProPlus2019Volume">
+		</Product>
+		<Product ID="AccessRuntimeRetail">
+		</Product>
+	</Remove>
+</Configuration>
